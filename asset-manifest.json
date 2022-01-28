@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pern-test/static/css/main.982d369e.css",
+    "main.js": "/pern-test/static/js/main.c0a4b71e.js",
+    "index.html": "/pern-test/index.html",
+    "main.982d369e.css.map": "/pern-test/static/css/main.982d369e.css.map",
+    "main.c0a4b71e.js.map": "/pern-test/static/js/main.c0a4b71e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.982d369e.css",
+    "static/js/main.c0a4b71e.js"
+  ]
+}
