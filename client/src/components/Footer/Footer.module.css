@@ -1,0 +1,35 @@
+.main {
+  max-width: 1440px;
+  margin: 0 auto;
+  position: relative;
+  background-color: #fafafa;
+  overflow: hidden;
+}
+
+.icons {
+  width: 126px;
+  height: 16px;
+  margin: 79px 0 105px 343px;
+  z-index: 5;
+}
+
+.ball_1 {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  z-index: 1;
+}
+
+.ball_2 {
+  position: absolute;
+  top: 51px;
+  right: -35px;
+  z-index: 2;
+}
+
+.ball_3 {
+  position: absolute;
+  top: 0;
+  right: 127px;
+  z-index: 3;
+}

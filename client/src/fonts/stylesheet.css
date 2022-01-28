@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Apercu Pro";
+  src: url("ApercuPro-Medium.eot");
+  src: local("Apercu Pro Medium"), local("ApercuPro-Medium"),
+    url("./ApercuPro-Medium.woff2") format("woff2"),
+    url("./ApercuPro-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
